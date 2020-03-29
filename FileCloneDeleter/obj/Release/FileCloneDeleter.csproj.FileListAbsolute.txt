@@ -1,0 +1,7 @@
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\bin\Release\FileCloneDeleter.exe.config
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\bin\Release\FileCloneDeleter.exe
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\bin\Release\FileCloneDeleter.pdb
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\obj\Release\FileCloneDeleter.csproj.CoreCompileInputs.cache
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\obj\Release\FileCloneDeleter.exe
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\obj\Release\FileCloneDeleter.pdb
+F:\VSSolutions\FileCloneDeleter\FileCloneDeleter\obj\Release\FileCloneDeleter.csprojAssemblyReference.cache
